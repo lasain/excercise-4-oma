@@ -1,0 +1,12 @@
+ipykernel
+nbconvert
+nbformat
+pytest
+mapclassify
+Pillow
+dhash
+
+geopandas
+pandas
+matplotlib
+shapely
